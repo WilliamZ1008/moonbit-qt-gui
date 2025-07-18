@@ -6,9 +6,15 @@ pub struct Demo {
 }
 
 ///|
+pub type! DemoError {
+  LoadDemoError
+} derive(Show)
+
+
+///|
 fn new() -> Demo!Error {
   guard @python.pyimport("moonbit_gui_demo.run") is Some(demo) else {
-    raise LoadTkinterError
+    raise LoadDemoError
   }
   Demo::{ demo, }
 }

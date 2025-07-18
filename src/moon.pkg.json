@@ -1,5 +1,6 @@
 {
   "import": [
-    "WilliamZ1008/qt-gui/lib"
-  ]
+    "Kaida-Amethyst/python"
+  ],
+  "supported-targets": ["native"]
 }
