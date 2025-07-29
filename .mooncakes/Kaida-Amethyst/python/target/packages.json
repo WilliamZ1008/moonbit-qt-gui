@@ -1,0 +1,835 @@
+{
+  "source_dir": "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python",
+  "name": "Kaida-Amethyst/python",
+  "packages": [
+    {
+      "is-main": false,
+      "is-third-party": false,
+      "root-path": "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python",
+      "root": "Kaida-Amethyst/python",
+      "rel": "",
+      "files": {
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/float.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/utils.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/integer.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/traits.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/enums.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/list.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/dict.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/tuple.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/bool.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/set.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/callable.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/errors.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/obj.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/str.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/module.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        }
+      },
+      "wbtest-files": {},
+      "test-files": {},
+      "mbt-md-files": {},
+      "deps": [
+        {
+          "path": "Kaida-Amethyst/python/cpython",
+          "alias": "cpython",
+          "fspath": "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/cpython"
+        }
+      ],
+      "wbtest-deps": [],
+      "test-deps": [],
+      "artifact": "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/target/wasm-gc/release/check/python.mi"
+    },
+    {
+      "is-main": false,
+      "is-third-party": false,
+      "root-path": "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/test",
+      "root": "Kaida-Amethyst/python",
+      "rel": "test",
+      "files": {},
+      "wbtest-files": {},
+      "test-files": {
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/test/module_test.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/test/object_test.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        }
+      },
+      "mbt-md-files": {},
+      "deps": [],
+      "wbtest-deps": [],
+      "test-deps": [
+        {
+          "path": "Kaida-Amethyst/python",
+          "alias": "python",
+          "fspath": "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python"
+        }
+      ],
+      "artifact": "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/target/wasm-gc/release/check/test/test.mi"
+    },
+    {
+      "is-main": true,
+      "is-third-party": false,
+      "root-path": "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/main",
+      "root": "Kaida-Amethyst/python",
+      "rel": "main",
+      "files": {
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/main/main.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        }
+      },
+      "wbtest-files": {},
+      "test-files": {},
+      "mbt-md-files": {},
+      "deps": [
+        {
+          "path": "Kaida-Amethyst/python",
+          "alias": "python",
+          "fspath": "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python"
+        }
+      ],
+      "wbtest-deps": [],
+      "test-deps": [],
+      "artifact": "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/target/wasm-gc/release/check/main/main.mi"
+    },
+    {
+      "is-main": false,
+      "is-third-party": false,
+      "root-path": "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/turtle",
+      "root": "Kaida-Amethyst/python",
+      "rel": "turtle",
+      "files": {
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/turtle/pen2.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/turtle/lib.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/turtle/screen.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/turtle/pen.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/turtle/speed.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/turtle/color.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/turtle/shape.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        }
+      },
+      "wbtest-files": {},
+      "test-files": {},
+      "mbt-md-files": {
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/turtle/double_pendulum.mbt.md": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        }
+      },
+      "deps": [
+        {
+          "path": "Kaida-Amethyst/python",
+          "alias": "python",
+          "fspath": "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python"
+        }
+      ],
+      "wbtest-deps": [],
+      "test-deps": [],
+      "artifact": "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/target/wasm-gc/release/check/turtle/turtle.mi"
+    },
+    {
+      "is-main": false,
+      "is-third-party": false,
+      "root-path": "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/tkinter",
+      "root": "Kaida-Amethyst/python",
+      "rel": "tkinter",
+      "files": {
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/tkinter/tkinter.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        }
+      },
+      "wbtest-files": {},
+      "test-files": {},
+      "mbt-md-files": {},
+      "deps": [
+        {
+          "path": "Kaida-Amethyst/python",
+          "alias": "python",
+          "fspath": "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python"
+        }
+      ],
+      "wbtest-deps": [],
+      "test-deps": [],
+      "artifact": "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/target/wasm-gc/release/check/tkinter/tkinter.mi"
+    },
+    {
+      "is-main": false,
+      "is-third-party": false,
+      "root-path": "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/time",
+      "root": "Kaida-Amethyst/python",
+      "rel": "time",
+      "files": {
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/time/lib.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        }
+      },
+      "wbtest-files": {},
+      "test-files": {},
+      "mbt-md-files": {},
+      "deps": [
+        {
+          "path": "Kaida-Amethyst/python",
+          "alias": "python",
+          "fspath": "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python"
+        }
+      ],
+      "wbtest-deps": [],
+      "test-deps": [],
+      "artifact": "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/target/wasm-gc/release/check/time/time.mi"
+    },
+    {
+      "is-main": false,
+      "is-third-party": false,
+      "root-path": "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/cpython",
+      "root": "Kaida-Amethyst/python",
+      "rel": "cpython",
+      "files": {
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/cpython/ceval.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/cpython/abstract.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/cpython/object.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/cpython/utils.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/cpython/code.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/cpython/core.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/cpython/class.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/cpython/error.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/cpython/list.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/cpython/dict.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/cpython/tuple.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/cpython/context.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/cpython/cell.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/cpython/iter.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/cpython/import.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/cpython/file.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/cpython/set.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/cpython/lifecycle.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/cpython/odict.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/cpython/unicode.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/cpython/codecs.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/cpython/number.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/cpython/func.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        },
+        "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/cpython/module.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native",
+            "LLVM"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        }
+      },
+      "wbtest-files": {},
+      "test-files": {},
+      "mbt-md-files": {},
+      "deps": [],
+      "wbtest-deps": [],
+      "test-deps": [],
+      "artifact": "/home/williamz1008/Projects/MoonBit/qtgui/.mooncakes/Kaida-Amethyst/python/target/wasm-gc/release/check/cpython/cpython.mi"
+    }
+  ],
+  "deps": [],
+  "backend": "wasm-gc",
+  "opt_level": "release",
+  "source": null
+}
