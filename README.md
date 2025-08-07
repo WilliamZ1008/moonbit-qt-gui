@@ -122,7 +122,7 @@ fn main() {
 
 ### 3. 运行示例
 
-![image-20250808001407204](.\assets\MoonBit_GUI_Demo.png)
+![MoonBit_GUI_Demo](assets/MoonBit_GUI_Demo.png)
 
 ```moonbit
 typealias @qtgui.Sys as Sys
