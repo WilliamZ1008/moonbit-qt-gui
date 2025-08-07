@@ -1,0 +1,6 @@
+{
+  "import": [
+    "Kaida-Amethyst/python"
+  ],
+  "supported-targets": ["native"]
+}
