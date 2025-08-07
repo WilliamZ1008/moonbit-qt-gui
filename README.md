@@ -96,11 +96,11 @@ cd ..
 ### 2. 基本用法
 
 ```moonbit
-import @qtgui.Sys as Sys
-import @qtgui.QApplication as QApplication
-import @qtgui.QMainWindow as QMainWindow
-import @qtgui.QLabel as QLabel
-import @qtgui.QPushButton as QPushButton
+typealias @qtgui.Sys as Sys
+typealias @qtgui.QApplication as QApplication
+typealias @qtgui.QMainWindow as QMainWindow
+typealias @qtgui.QLabel as QLabel
+typealias @qtgui.QPushButton as QPushButton
 
 fn main() {
   let sys = Sys::new()
@@ -121,6 +121,8 @@ fn main() {
 ```
 
 ### 3. 运行示例
+
+![image-20250808001407204](.\assets\MoonBit_GUI_Demo.png)
 
 ```moonbit
 typealias @qtgui.Sys as Sys
