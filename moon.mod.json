@@ -2,7 +2,7 @@
   "name": "WilliamZ1008/qtgui",
   "version": "0.1.5",
   "deps": {
-    "Kaida-Amethyst/python": "0.1.5"
+    "Kaida-Amethyst/python": "0.1.4"
   },
   "readme": "README.md",
   "repository": "https://github.com/WilliamZ1008/moonbit-qt-gui",
